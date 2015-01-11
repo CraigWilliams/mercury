@@ -16,8 +16,8 @@ Gem::Specification.new do |s|
   s.licenses    = ['MIT']
 
   # Runtime Dependencies
-  s.add_dependency 'railties', '>= 3.0'
-  s.add_dependency 'coffee-rails', '>= 3.2.2'
+  s.add_dependency 'railties', '>= 4.0'
+  s.add_dependency 'coffee-rails', '>= 4.0'
 
   # Gem Files
   s.extra_rdoc_files  = %w(LICENSE POST_INSTALL)
